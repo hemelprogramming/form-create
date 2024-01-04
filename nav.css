@@ -1,0 +1,17 @@
+nav > ul {
+  display: flex;
+}
+nav ul li {
+  list-style: none;
+}
+nav li a {
+  text-decoration: none;
+  margin-right: 20px;
+  color: black;
+}
+nav li :hover {
+  background-color: lightgray;
+}
+
+.himel a {
+
